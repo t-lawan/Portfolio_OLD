@@ -38,6 +38,10 @@ a{
   color: #fff;
   display: inline-block;
 }
+
+#intro{
+  margin-top: 100px;
+}
 .navbar {
     padding-top: 15px;
     padding-bottom: 40px;
