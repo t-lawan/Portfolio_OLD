@@ -21,6 +21,23 @@ p {
 li {
     font-size: 30px;
 }
+
+.project{
+  margin: 50px 0;
+}
+
+ul, li{
+  display: inline-block;
+    float: none;
+    color: #fff;
+    list-style-type: none;
+    margin: 0px 30px;
+}
+
+a{
+  color: #fff;
+  display: inline-block;
+}
 .navbar {
     padding-top: 15px;
     padding-bottom: 40px;
